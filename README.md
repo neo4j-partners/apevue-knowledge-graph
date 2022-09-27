@@ -1,2 +1,2 @@
 # apevue-knowledge-graph
-Example Data and Scripts for ApeVue data in a Neo4j Knowledge Graph
+This repo contains example data and scripts to load ApeVue data into a Neo4j powered Knowledge Graph.  You probably want to start [here](apevue-knowledge-graph.ipynb).
