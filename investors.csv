@@ -1,347 +1,794 @@
-Index,SubIndex,Firm,Investor
-ApeVue 50,ApeVue 50 Financial,Addepar,D1 Capital Partners
-ApeVue 50,ApeVue 50 Financial,Addepar,WestCap
-ApeVue 50,ApeVue 50 Financial,Addepar,Valor Equity Partners
-ApeVue 50,ApeVue 50 Financial,Addepar,Sway Ventures
-ApeVue 50,ApeVue 50 Financial,Addepar,8VC
-ApeVue 50,ApeVue 50 Financial,Addepar,Chromo Invest
-ApeVue 50,ApeVue 50 Financial,Addepar,CreditEase Fintech Investment Fund
-ApeVue 50,ApeVue 50 Financial,Addepar,Group 11
-ApeVue 50,ApeVue 50 Financial,Addepar,Palm Drive Capital
-ApeVue 50,ApeVue 50 Financial,Bolt,Schonfeld Strategic Advisors
-ApeVue 50,ApeVue 50 Financial,Bolt,Digital Horizon
-ApeVue 50,ApeVue 50 Financial,Bolt,BlackRock
-ApeVue 50,ApeVue 50 Financial,Bolt,Invus Opportunities
-ApeVue 50,ApeVue 50 Financial,Bolt,Moore Strategic Ventures
-ApeVue 50,ApeVue 50 Financial,Bolt,H.I.G. Growth Partners
-ApeVue 50,ApeVue 50 Financial,Bolt,Activant Capital
-ApeVue 50,ApeVue 50 Financial,Bolt,CreditEase
-ApeVue 50,ApeVue 50 Financial,Bolt,Stack Capital
-ApeVue 50,ApeVue 50 Financial,Bolt,Willoughby Capital
-ApeVue 50,ApeVue 50 Financial,Brex,Greenoaks Capital
-ApeVue 50,ApeVue 50 Financial,Brex,Madrone Capital Partners
-ApeVue 50,ApeVue 50 Financial,Brex,DST Global
-ApeVue 50,ApeVue 50 Financial,Brex,Durable Capital Partners
-ApeVue 50,ApeVue 50 Financial,Brex,Riibbit Capital
-ApeVue 50,ApeVue 50 Financial,Brex,TCV
-ApeVue 50,ApeVue 50 Financial,Brex,GIC
-ApeVue 50,ApeVue 50 Financial,Brex,Y Combinator Continuity Fund
-ApeVue 50,ApeVue 50 Financial,Brex,Tiger Global Management
-ApeVue 50,ApeVue 50 Financial,Brex,Baillie Gifford
-ApeVue 50,ApeVue 50 Financial,Carta,8090 Partners
-ApeVue 50,ApeVue 50 Financial,Carta,Sand Hill Angels
-ApeVue 50,ApeVue 50 Financial,Carta,Vetamer
-ApeVue 50,ApeVue 50 Financial,Carta,Silver Lake
-ApeVue 50,ApeVue 50 Financial,Carta,Moonshots Capital
-ApeVue 50,ApeVue 50 Financial,Carta,Digital Horizon
-ApeVue 50,ApeVue 50 Financial,Carta,9Yards Capital
-ApeVue 50,ApeVue 50 Financial,Carta,Permira
-ApeVue 50,ApeVue 50 Financial,Carta,QD Ventures
-ApeVue 50,ApeVue 50 Financial,Carta,Thunder Future
-ApeVue 50,ApeVue 50 Financial,Chime,General Atlantic
-ApeVue 50,ApeVue 50 Financial,Chime,Tiger Global Management
-ApeVue 50,ApeVue 50 Financial,Chime,Sequoia Capital Global Equities
-ApeVue 50,ApeVue 50 Financial,Chime,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Financial,Chime,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Financial,Chime,Empede Capital
-ApeVue 50,ApeVue 50 Financial,Chime,Coatue
-ApeVue 50,ApeVue 50 Financial,Chime,DST Global
-ApeVue 50,ApeVue 50 Financial,Chime,Whale Rock Capital Management
-ApeVue 50,ApeVue 50 Financial,Deel,Y Combinator Continuity Fund
-ApeVue 50,ApeVue 50 Financial,Deel,Spark Capital
-ApeVue 50,ApeVue 50 Financial,Deel,Altimeter Capital
-ApeVue 50,ApeVue 50 Financial,Deel,Neo
-ApeVue 50,ApeVue 50 Financial,Deel,Green Bay Ventures
-ApeVue 50,ApeVue 50 Financial,Deel,Coatue
-ApeVue 50,ApeVue 50 Financial,Deel,Counterpart Advisors
-ApeVue 50,ApeVue 50 Financial,Figure,Digital Currency Group
-ApeVue 50,ApeVue 50 Financial,Figure,Rockaway Blockchain Fund
-ApeVue 50,ApeVue 50 Financial,Figure,Digital Capital Management
-ApeVue 50,ApeVue 50 Financial,Figure,L1 Digital
-ApeVue 50,ApeVue 50 Financial,Figure,HOF Capital
-ApeVue 50,ApeVue 50 Financial,Figure,Apollo
-ApeVue 50,ApeVue 50 Financial,Figure,Gramercy Ventures
-ApeVue 50,ApeVue 50 Financial,Figure,Morgan Creek Digital
-ApeVue 50,ApeVue 50 Financial,Figure,GoldenTree Asset Management
-ApeVue 50,ApeVue 50 Financial,Figure,Ethos VC
-ApeVue 50,ApeVue 50 Financial,Klarna,Raison Asset Management
-ApeVue 50,ApeVue 50 Financial,Klarna,Crowdcube
-ApeVue 50,ApeVue 50 Financial,Klarna,Artic Ventures
-ApeVue 50,ApeVue 50 Financial,Klarna,StratMinds
-ApeVue 50,ApeVue 50 Financial,Klarna,Alma Mundi Ventures
-ApeVue 50,ApeVue 50 Financial,Klarna,HoneyComb Ventures
-ApeVue 50,ApeVue 50 Financial,Klarna,Adit Ventures
-ApeVue 50,ApeVue 50 Financial,Klarna,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Financial,Klarna,WestCap
-ApeVue 50,ApeVue 50 Financial,Kraken,Raison Asset Management
-ApeVue 50,ApeVue 50 Financial,Kraken,Anchor Capital GP
-ApeVue 50,ApeVue 50 Financial,Kraken,Red Lions Capital
-ApeVue 50,ApeVue 50 Financial,Kraken,JOINT JOURNEY
-ApeVue 50,ApeVue 50 Financial,Kraken,Empede Capital
-ApeVue 50,ApeVue 50 Financial,Kraken,Manhattan Venture Partners
-ApeVue 50,ApeVue 50 Financial,Kraken,Investlink Holdings
-ApeVue 50,ApeVue 50 Financial,Kraken,Tribe Capital
-ApeVue 50,ApeVue 50 Financial,N26,HMC Capital
-ApeVue 50,ApeVue 50 Financial,N26,Third Point Ventures
-ApeVue 50,ApeVue 50 Financial,N26,Coatue
-ApeVue 50,ApeVue 50 Financial,N26,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Financial,N26,Earlybird Venture Capital
-ApeVue 50,ApeVue 50 Financial,N26,Crystalon Finanz
-ApeVue 50,ApeVue 50 Financial,N26,Left Lane Capital
-ApeVue 50,ApeVue 50 Financial,N26,Ilavska Vuillermoz Capital
-ApeVue 50,ApeVue 50 Financial,N26,GIC
-ApeVue 50,ApeVue 50 Financial,N26,Insight Partners
-ApeVue 50,ApeVue 50 Financial,Pipe,Rayyan Islam
-ApeVue 50,ApeVue 50 Financial,Pipe,Empede Capital
-ApeVue 50,ApeVue 50 Financial,Pipe,Roosh Ventures
-ApeVue 50,ApeVue 50 Financial,Pipe,Concentric
-ApeVue 50,ApeVue 50 Financial,Pipe,Fin Venture Capital
-ApeVue 50,ApeVue 50 Financial,Pipe,10X Capital
-ApeVue 50,ApeVue 50 Financial,Pipe,Balius Partners
-ApeVue 50,ApeVue 50 Financial,Pipe,Next47
-ApeVue 50,ApeVue 50 Financial,Pipe,MaC Venture Capital
-ApeVue 50,ApeVue 50 Financial,Pipe,SBI Investment
-ApeVue 50,ApeVue 50 Financial,Revolut,Da Vinci Capital
-ApeVue 50,ApeVue 50 Financial,Revolut,Red Lions Capital
-ApeVue 50,ApeVue 50 Financial,Revolut,Target Global
-ApeVue 50,ApeVue 50 Financial,Revolut,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Financial,Revolut,Tiger Global Management
-ApeVue 50,ApeVue 50 Financial,Revolut,Ricardo Schaefer
-ApeVue 50,ApeVue 50 Financial,Revolut,TSG Consumer Partners
-ApeVue 50,ApeVue 50 Financial,Revolut,Lakestar
-ApeVue 50,ApeVue 50 Financial,Revolut,London Impact Ventures
-ApeVue 50,ApeVue 50 Financial,Revolut,DST Global
-ApeVue 50,ApeVue 50 Financial,Stripe,Ethos VC
-ApeVue 50,ApeVue 50 Financial,Stripe,National Treasury Management Agency (NTMA)
-ApeVue 50,ApeVue 50 Financial,Stripe,Baillie Gifford
-ApeVue 50,ApeVue 50 Financial,Stripe,Sequoia Capital 
-ApeVue 50,ApeVue 50 Financial,Stripe,Fidelity Management and Research Company
-ApeVue 50,ApeVue 50 Financial,Stripe,AXA Group
-ApeVue 50,ApeVue 50 Financial,Stripe,Allianz X
-ApeVue 50,ApeVue 50 Financial,Stripe,Counterpart Advisors
-ApeVue 50,ApeVue 50 Financial,Stripe,HOF Capital
-ApeVue 50,ApeVue 50 Financial,Stripe,Inshal Qamar
-ApeVue 50,ApeVue 50 Financial,Toss,Altos Ventures
-ApeVue 50,ApeVue 50 Financial,Toss,Cambium Grove Capital
-ApeVue 50,ApeVue 50 Financial,Toss,Korea Development Bank
-ApeVue 50,ApeVue 50 Financial,Toss,Alkeon Capital
-ApeVue 50,ApeVue 50 Financial,Toss,Greyhound Capital
-ApeVue 50,ApeVue 50 Financial,Toss,FJ Labs
-ApeVue 50,ApeVue 50 Financial,Toss,Kleiner Perkins
-ApeVue 50,ApeVue 50 Financial,Toss,Sequoia Capital China
-ApeVue 50,ApeVue 50 Financial,Toss,G Squared
-ApeVue 50,ApeVue 50 Financial,Toss,Aspex Management
-ApeVue 50,ApeVue 50 Financial,Upgrade,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Financial,Upgrade,G Squared
-ApeVue 50,ApeVue 50 Financial,Upgrade,Ventura Capital
-ApeVue 50,ApeVue 50 Financial,Upgrade,Koch Disruptive Technologies
-ApeVue 50,ApeVue 50 Financial,Upgrade,Ribbit Capital
-ApeVue 50,ApeVue 50 Financial,Upgrade,Sands Venture Capital
-ApeVue 50,ApeVue 50 Financial,Upgrade,DST Global
-ApeVue 50,ApeVue 50 Financial,Upgrade,Coatue
-ApeVue 50,ApeVue 50 Financial,Upgrade,Old Well Ventures
-ApeVue 50,ApeVue 50 Financial,Upgrade,Gopher Asset Management
-ApeVue 50,ApeVue 50 Food,Bowery Farming,Kohlberg Kravis Roberts
-ApeVue 50,ApeVue 50 Food,Bowery Farming,General Catalyst
-ApeVue 50,ApeVue 50 Food,Bowery Farming,GGV Capital
-ApeVue 50,ApeVue 50 Food,Bowery Farming,Temasek Holdings
-ApeVue 50,ApeVue 50 Food,Bowery Farming,Justin Timberlake
-ApeVue 50,ApeVue 50 Food,Bowery Farming,Sand Hill Angels
-ApeVue 50,ApeVue 50 Food,Eat Just,AIV Capital
-ApeVue 50,ApeVue 50 Food,Eat Just,Qatar Investment Authority
-ApeVue 50,ApeVue 50 Food,Eat Just,Charlesbank Capital Partners
-ApeVue 50,ApeVue 50 Food,Eat Just,KONTINUUM
-ApeVue 50,ApeVue 50 Food,Eat Just,Red Lions Capital
-ApeVue 50,ApeVue 50 Food,Eat Just,Proioxis Ventures Fund
-ApeVue 50,ApeVue 50 Food,Eat Just,Veligera Capital
-ApeVue 50,ApeVue 50 Food,Eat Just,Cambium Grove Capital
-ApeVue 50,ApeVue 50 Food,Gopuff,Robert Iger
-ApeVue 50,ApeVue 50 Food,Gopuff,Marcy Venture Partners
-ApeVue 50,ApeVue 50 Food,Gopuff,Selena Gomez
-ApeVue 50,ApeVue 50 Food,Gopuff,Guggenheim Investments
-ApeVue 50,ApeVue 50 Food,Gopuff,Atreides Management
-ApeVue 50,ApeVue 50 Food,Gopuff,Adage Capital Management
-ApeVue 50,ApeVue 50 Food,Gopuff,Luxor Capital Group
-ApeVue 50,ApeVue 50 Food,Gopuff,Blackstone Group
-ApeVue 50,ApeVue 50 Food,Gopuff,Eldridge
-ApeVue 50,ApeVue 50 Food,Gopuff,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Food,Gorillas,Alanda Capital Management
-ApeVue 50,ApeVue 50 Food,Gorillas,Delivery Hero
-ApeVue 50,ApeVue 50 Food,Gorillas,FoodLabs
-ApeVue 50,ApeVue 50 Food,Gorillas,Fifth Wall
-ApeVue 50,ApeVue 50 Food,Gorillas,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Food,Gorillas,Greenoaks Capital
-ApeVue 50,ApeVue 50 Food,Gorillas,Macquarie Capital 
-ApeVue 50,ApeVue 50 Food,Gorillas,Da Vinci Capital
-ApeVue 50,ApeVue 50 Food,Gorillas,DST Global
-ApeVue 50,ApeVue 50 Food,Gorillas,Buddy Shakhashir
-ApeVue 50,ApeVue 50 Food,Grubmarket,Empede Capital
-ApeVue 50,ApeVue 50 Food,Grubmarket,Builders and Backers Capital
-ApeVue 50,ApeVue 50 Food,Grubmarket,Celtic House Venture Partners
-ApeVue 50,ApeVue 50 Food,Grubmarket,Madison Bay Capital Partners
-ApeVue 50,ApeVue 50 Food,Grubmarket,Flucas Ventures 
-ApeVue 50,ApeVue 50 Food,Grubmarket,Trinity Capital
-ApeVue 50,ApeVue 50 Food,Grubmarket,Moving Capital
-ApeVue 50,ApeVue 50 Food,Grubmarket,GGV Capital
-ApeVue 50,ApeVue 50 Food,Grubmarket,Marubeni
-ApeVue 50,ApeVue 50 Food,Grubmarket,Japan Post Capital
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Mirae Asset Global Investments
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Global Secure Invest
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Empede Capital
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Temasek Holdings
-ApeVue 50,ApeVue 50 Food,Impossible Foods,XN
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Coatue
-ApeVue 50,ApeVue 50 Food,Impossible Foods,Serena Williams
-ApeVue 50,ApeVue 50 Food,Impossible Foods,William Adams
-ApeVue 50,ApeVue 50 Food,Instacart,Manhattan Venture Partners
-ApeVue 50,ApeVue 50 Food,Instacart,Sequoia Capital
-ApeVue 50,ApeVue 50 Food,Instacart,Fidelity Management and Research Company
-ApeVue 50,ApeVue 50 Food,Instacart,D1 Capital Partners
-ApeVue 50,ApeVue 50 Food,Instacart,Andreessen Horowitz
-ApeVue 50,ApeVue 50 Food,Instacart,T. Rowe Price
-ApeVue 50,ApeVue 50 Food,Instacart,Valiant Peregrine Fund
-ApeVue 50,ApeVue 50 Data,Airtable,Salesforce Ventures
-ApeVue 50,ApeVue 50 Data,Airtable,Silver Lake
-ApeVue 50,ApeVue 50 Data,Airtable,D1 Capital Partners
-ApeVue 50,ApeVue 50 Data,Airtable,Franklin Templeton Investments
-ApeVue 50,ApeVue 50 Data,Airtable,T. Rowe Price
-ApeVue 50,ApeVue 50 Data,Airtable,XN
-ApeVue 50,ApeVue 50 Data,Airtable,Caffeinated Capital
-ApeVue 50,ApeVue 50 Data,Airtable,Benchmark
-ApeVue 50,ApeVue 50 Data,Airtable,ICONIQ Growth
-ApeVue 50,ApeVue 50 Data,Airtable,JP Morgan
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Irving Investors
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Viking Global Investors
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Owl Rock Capital
-ApeVue 50,ApeVue 50 Data,Artic Wolf,DTCP
-ApeVue 50,ApeVue 50 Data,Artic Wolf,STCAP
-ApeVue 50,ApeVue 50 Data,Artic Wolf,NextEquity Partners
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Blue Cloud Ventures
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Delta-v Capital
-ApeVue 50,ApeVue 50 Data,Artic Wolf,Adams Street Partners
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Investlink Holdings
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,SharesPro
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Veligera Capital
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Mindrock Capital
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Artic Ventures
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Alexander Rugaev
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Asas Capital
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Global Secure Invest
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Vershina Capital
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,Empede Capital
-ApeVue 50,ApeVue 50 Data,ConsenSys,Almanack Family Office
-ApeVue 50,ApeVue 50 Data,ConsenSys,Marshall Wace
-ApeVue 50,ApeVue 50 Data,ConsenSys,NJF Capital
-ApeVue 50,ApeVue 50 Data,ConsenSys,ParaFi Capital
-ApeVue 50,ApeVue 50 Data,ConsenSys,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Data,ConsenSys,Corner Capital Management
-ApeVue 50,ApeVue 50 Data,ConsenSys,UTA Ventures 
-ApeVue 50,ApeVue 50 Data,ConsenSys,Anthos Capital
-ApeVue 50,ApeVue 50 Data,ConsenSys,Microsoft
-ApeVue 50,ApeVue 50 Data,ConsenSys,Third Point Ventures
-ApeVue 50,ApeVue 50 Data,Databricks,Green Bay Ventures
-ApeVue 50,ApeVue 50 Data,Databricks,Race Capital
-ApeVue 50,ApeVue 50 Data,Databricks,BlackRock
-ApeVue 50,ApeVue 50 Data,Databricks,ClearBridge Investments
-ApeVue 50,ApeVue 50 Data,Databricks,T. Rowe Price
-ApeVue 50,ApeVue 50 Data,Databricks,Greenoaks Capital
-ApeVue 50,ApeVue 50 Data,Databricks,New Enterprise Associates
-ApeVue 50,ApeVue 50 Data,Databricks,Discovery Capital
-ApeVue 50,ApeVue 50 Data,Databricks,Flucas Ventures 
-ApeVue 50,ApeVue 50 Data,Dataminr,Counterpoint Global
-ApeVue 50,ApeVue 50 Data,H2O.ai,Goldman Sachs
-ApeVue 50,ApeVue 50 Data,H2O.ai,Commonwealth Bank of Australia
-ApeVue 50,ApeVue 50 Data,H2O.ai,Crane Venture Partners
-ApeVue 50,ApeVue 50 Data,H2O.ai,Pivot Investment Partners
-ApeVue 50,ApeVue 50 Data,H2O.ai,Celesta Capital
-ApeVue 50,ApeVue 50 Data,H2O.ai,Wells Fargo
-ApeVue 50,ApeVue 50 Data,H2O.ai,Nexus Venture Partners
-ApeVue 50,ApeVue 50 Data,H2O.ai,Ping An Global Voyager
-ApeVue 50,ApeVue 50 Data,H2O.ai,Barclays Investment Bank
-ApeVue 50,ApeVue 50 Data,Rubrik,Spellman Investment Group
-ApeVue 50,ApeVue 50 Data,Rubrik,SharesPro
-ApeVue 50,ApeVue 50 Data,Rubrik,Microsoft
-ApeVue 50,ApeVue 50 Data,Rubrik,Investlink Holdings
-ApeVue 50,ApeVue 50 Data,Rubrik,Vershina Capital
-ApeVue 50,ApeVue 50 Data,Rubrik,Mirza Canda
-ApeVue 50,ApeVue 50 Data,Rubrik,Digital Disrupt
-ApeVue 50,ApeVue 50 Data,Rubrik,Raison Asset Management
-ApeVue 50,ApeVue 50 Data,Rubrik,KG Investments
-ApeVue 50,ApeVue 50 Data,Rubrik,Red Lions Capital
-ApeVue 50,ApeVue 50 Data,Scale.ai,Mirza Canda
-ApeVue 50,ApeVue 50 Data,Scale.ai,Index Ventures
-ApeVue 50,ApeVue 50 Data,Scale.ai,Coatue
-ApeVue 50,ApeVue 50 Data,Scale.ai,Y Combinator
-ApeVue 50,ApeVue 50 Data,Scale.ai,Wellington Management
-ApeVue 50,ApeVue 50 Data,Scale.ai,Founders Fund
-ApeVue 50,ApeVue 50 Data,Scale.ai,Durable Capital Partners
-ApeVue 50,ApeVue 50 Data,Scale.ai,Human Capital
-ApeVue 50,ApeVue 50 Data,Scale.ai,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Data,Scale.ai,Greenoaks Capital
-ApeVue 50,ApeVue 50 Data,Sisense,Bessemer Venture Partners
-ApeVue 50,ApeVue 50 Data,Sisense,Battery Ventures
-ApeVue 50,ApeVue 50 Data,Sisense,Insight Partners
-ApeVue 50,ApeVue 50 Data,Sisense,DFJ Growth
-ApeVue 50,ApeVue 50 Data,Sisense,ClalTech
-ApeVue 50,ApeVue 50 Data,Sisense,Access Industries
-ApeVue 50,ApeVue 50 Data,Sisense,Opus Capital
-ApeVue 50,ApeVue 50 Data,Sisense,Genesis Partners
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Sequoia Capital
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Kohlberg Kravis Roberts Japan
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Tiger Global Management
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,GGV Capital
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,CMB Wing Lung Bank
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Morgan Stanley
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Goldman Sachs
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Bank of China
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,Primavera Capital Group
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,SoftBank Vision Fund
-ApeVue 50,ApeVue 50 Entertainment,Discord,Arcane Group
-ApeVue 50,ApeVue 50 Entertainment,Discord,Flat Capital
-ApeVue 50,ApeVue 50 Entertainment,Discord,Sony Interactive Entertainment
-ApeVue 50,ApeVue 50 Entertainment,Discord,Coatue
-ApeVue 50,ApeVue 50 Entertainment,Discord,Franklin Templeton Investments
-ApeVue 50,ApeVue 50 Entertainment,Discord,Baillie Gifford
-ApeVue 50,ApeVue 50 Entertainment,Discord,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Entertainment,Discord,Institutional Venture Partners
-ApeVue 50,ApeVue 50 Entertainment,Discord,Fidelity Management and Research Company
-ApeVue 50,ApeVue 50 Entertainment,Discord,Alexander Rugaev
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Sony
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,KIRKBI A/S
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Bracket Capital
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,GIC
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Fidelity Management and Research Company
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Park West Asset Management
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Latasha Williamson
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Ontario Teachers' Pension Plan
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,Luxor Capital Group
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Joachim Lecrivain
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Coatue
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Seth Weinstein
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Kathryn Haun
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Paradigm
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,TokenZ
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Buck Stash
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Crowd Venture Capital
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,Cashican People LLC
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,COIND
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Mirza Canda
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Maximize Capital
-ApeVue 50,ApeVue 50 Entertainment,Patreon,NETWORK VC
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Lone Pine Capital
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Woodline Partners
-ApeVue 50,ApeVue 50 Entertainment,Patreon,New Enterprise Associates
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Wellington Management
-ApeVue 50,ApeVue 50 Entertainment,Patreon,DFJ Growth
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Domenico Loprieno
-ApeVue 50,ApeVue 50 Entertainment,Patreon,Tiger Global Management
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Larry Fitzgerald
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Mike Tyson
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Cobalt Capital
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Sapphire Ventures
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Drew Brees
-ApeVue 50,ApeVue 50 Entertainment,Tonal,L Catterton
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Maria Sharapova
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Sue Bird
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Dragoneer Investment Group
-ApeVue 50,ApeVue 50 Entertainment,Tonal,Sapphire Sport
+﻿Company,Investor,Sector
+Airtable,"Coatue Management, L.L.C.",Data
+Bytedance,"Coatue Management, L.L.C.",Entertainment
+Chainalysis,"Coatue Management, L.L.C.",Blockchain
+Chime Bank,"Coatue Management, L.L.C.",Financial
+Databricks,"Coatue Management, L.L.C.",Data
+Discord,"Coatue Management, L.L.C.",Entertainment
+Figma,"Coatue Management, L.L.C.",Workflow
+Impossible Foods,"Coatue Management, L.L.C.",Food
+Lime,"Coatue Management, L.L.C.",Transportation
+Niantic,"Coatue Management, L.L.C.",Entertainment
+Ola,"Coatue Management, L.L.C.",Transportation
+OpenSea,"Coatue Management, L.L.C.",Entertainment
+Relativity Space,"Coatue Management, L.L.C.",Aerospace
+Rippling,"Coatue Management, L.L.C.",HR
+Scale.ai,"Coatue Management, L.L.C.",Data
+Snyk,"Coatue Management, L.L.C.",Security
+Anduril,"Spur Capital Partners, LLC",Aerospace
+Bytedance,"Spur Capital Partners, LLC",Entertainment
+Carta,"Spur Capital Partners, LLC",Financial
+Circle,"Spur Capital Partners, LLC",Financial
+Figma,"Spur Capital Partners, LLC",Workflow
+Flexport,"Spur Capital Partners, LLC",Transportation
+Gupshup,"Spur Capital Partners, LLC",Telecomm
+Impossible Foods,"Spur Capital Partners, LLC",Food
+Netskope,"Spur Capital Partners, LLC",Security
+Niantic,"Spur Capital Partners, LLC",Entertainment
+Rubrik,"Spur Capital Partners, LLC",Data
+SpaceX,"Spur Capital Partners, LLC",Aerospace
+Stripe,"Spur Capital Partners, LLC",Financial
+Talkdesk,"Spur Capital Partners, LLC",Telecomm
+ThoughtSpot,"Spur Capital Partners, LLC",Data
+BigID,"Tiger Global Management, LLC",Data
+Brex,"Tiger Global Management, LLC",Financial
+Bytedance,"Tiger Global Management, LLC",Entertainment
+Carta,"Tiger Global Management, LLC",Financial
+Chime Bank,"Tiger Global Management, LLC",Financial
+Databricks,"Tiger Global Management, LLC",Data
+DataRobot,"Tiger Global Management, LLC",Data
+FTX,"Tiger Global Management, LLC",Blockchain
+Gupshup,"Tiger Global Management, LLC",Telecomm
+Ola,"Tiger Global Management, LLC",Transportation
+Relativity Space,"Tiger Global Management, LLC",Aerospace
+Revolut,"Tiger Global Management, LLC",Financial
+Scale.ai,"Tiger Global Management, LLC",Data
+Snyk,"Tiger Global Management, LLC",Security
+Stripe,"Tiger Global Management, LLC",Financial
+Addepar,Manhattan Venture Partners,Financial
+Discord,Manhattan Venture Partners,Entertainment
+Epic Games,Manhattan Venture Partners,Entertainment
+Flexport,Manhattan Venture Partners,Transportation
+Impossible Foods,Manhattan Venture Partners,Food
+Klarna,Manhattan Venture Partners,Financial
+Lime,Manhattan Venture Partners,Transportation
+Revolut,Manhattan Venture Partners,Financial
+Scopely,Manhattan Venture Partners,Entertainment
+SpaceX,Manhattan Venture Partners,Aerospace
+Turo,Manhattan Venture Partners,Transportation
+Brex,Baillie Gifford & Co,Financial
+Convoy,Baillie Gifford & Co,Transportation
+Databricks,Baillie Gifford & Co,Data
+Discord,Baillie Gifford & Co,Entertainment
+Epic Games,Baillie Gifford & Co,Entertainment
+Ola,Baillie Gifford & Co,Transportation
+Relativity Space,Baillie Gifford & Co,Aerospace
+Scopely,Baillie Gifford & Co,Entertainment
+Stripe,Baillie Gifford & Co,Financial
+Zipline,Baillie Gifford & Co,Aerospace
+Bytedance,Baillie Gifford & Co,Entertainment
+SpaceX,Baillie Gifford & Co,Aerospace
+Bytedance,Sequoia Capital Operations LLC,Entertainment
+Chime Bank,Sequoia Capital Operations LLC,Financial
+Figma,Sequoia Capital Operations LLC,Workflow
+FTX,Sequoia Capital Operations LLC,Blockchain
+Klarna,Sequoia Capital Operations LLC,Financial
+Rippling,Sequoia Capital Operations LLC,HR
+SpaceX,Sequoia Capital Operations LLC,Aerospace
+Stripe,Sequoia Capital Operations LLC,Financial
+Zipline,Sequoia Capital Operations LLC,Aerospace
+Flexport,"GV Management Company, LLC",Transportation
+Impossible Foods,"GV Management Company, LLC",Food
+Intercom,"GV Management Company, LLC",Marketing
+Lime,"GV Management Company, LLC",Transportation
+Neo4j,"GV Management Company, LLC",Data
+Neuralink,"GV Management Company, LLC",Health
+Snyk,"GV Management Company, LLC",Security
+Stripe,"GV Management Company, LLC",Financial
+Turo,"GV Management Company, LLC",Transportation
+Zipline,"GV Management Company, LLC",Aerospace
+Bytedance,SoftBank,Entertainment
+Chime Bank,SoftBank,Financial
+ConsenSys,SoftBank,Blockchain
+Flexport,SoftBank,Transportation
+FTX,SoftBank,Blockchain
+Klarna,SoftBank,Financial
+Ola,SoftBank,Transportation
+Revolut,SoftBank,Financial
+Zopa,SoftBank,Financial
+Anduril,Andreessen Horowitz LLC,Aerospace
+Carta,Andreessen Horowitz LLC,Financial
+Databricks,Andreessen Horowitz LLC,Data
+Figma,Andreessen Horowitz LLC,Workflow
+Flexport,Andreessen Horowitz LLC,Transportation
+Lime,Andreessen Horowitz LLC,Transportation
+OpenSea,Andreessen Horowitz LLC,Entertainment
+Stripe,Andreessen Horowitz LLC,Financial
+Zipline,Andreessen Horowitz LLC,Aerospace
+Circle,Fidelity Investments,Financial
+Databricks,Fidelity Investments,Data
+Discord,Fidelity Investments,Entertainment
+Epic Games,Fidelity Investments,Entertainment
+Gupshup,Fidelity Investments,Telecomm
+Lime,Fidelity Investments,Transportation
+Relativity Space,Fidelity Investments,Aerospace
+Stripe,Fidelity Investments,Financial
+Zipline,Fidelity Investments,Aerospace
+Anduril,"Founders Fund, Inc.",Aerospace
+Figma,"Founders Fund, Inc.",Workflow
+Flexport,"Founders Fund, Inc.",Transportation
+Neuralink,"Founders Fund, Inc.",Health
+Niantic,"Founders Fund, Inc.",Entertainment
+OpenSea,"Founders Fund, Inc.",Entertainment
+Rippling,"Founders Fund, Inc.",HR
+Scale.ai,"Founders Fund, Inc.",Data
+SpaceX,"Founders Fund, Inc.",Aerospace
+Stripe,"Founders Fund, Inc.",Financial
+Brex,Institutional Venture Partners,Financial
+Discord,Institutional Venture Partners,Entertainment
+Figma,Institutional Venture Partners,Workflow
+FTX,Institutional Venture Partners,Blockchain
+Klarna,Institutional Venture Partners,Financial
+Lime,Institutional Venture Partners,Transportation
+Niantic,Institutional Venture Partners,Entertainment
+Rubrik,Institutional Venture Partners,Data
+Brex,Y Combinator,Financial
+Convoy,Y Combinator,Transportation
+Flexport,Y Combinator,Transportation
+OpenSea,Y Combinator,Entertainment
+Relativity Space,Y Combinator,Aerospace
+Rippling,Y Combinator,HR
+Scale.ai,Y Combinator,Data
+Stripe,Y Combinator,Financial
+Airtable,2B Global Capital Sarl,Data
+Bytedance,2B Global Capital Sarl,Entertainment
+Databricks,2B Global Capital Sarl,Data
+Epic Games,2B Global Capital Sarl,Entertainment
+Impossible Foods,2B Global Capital Sarl,Food
+Klarna,2B Global Capital Sarl,Financial
+Rubrik,2B Global Capital Sarl,Data
+Turo,2B Global Capital Sarl,Transportation
+Chainalysis,Accel Partners,Blockchain
+Circle,Accel Partners,Financial
+Discord,Accel Partners,Entertainment
+Netskope,Accel Partners,Security
+Ola,Accel Partners,Transportation
+Scale.ai,Accel Partners,Data
+Snyk,Accel Partners,Security
+Circle,"BlackRock, Inc.",Financial
+Databricks,"BlackRock, Inc.",Data
+DataRobot,"BlackRock, Inc.",Data
+Epic Games,"BlackRock, Inc.",Entertainment
+FTX,"BlackRock, Inc.",Blockchain
+Klarna,"BlackRock, Inc.",Financial
+Relativity Space,"BlackRock, Inc.",Aerospace
+Scopely,"BlackRock, Inc.",Entertainment
+Snyk,"BlackRock, Inc.",Security
+Airtable,"Franklin Resources, Inc.",Data
+Databricks,"Franklin Resources, Inc.",Data
+DataRobot,"Franklin Resources, Inc.",Data
+Discord,"Franklin Resources, Inc.",Entertainment
+Epic Games,"Franklin Resources, Inc.",Entertainment
+Lime,"Franklin Resources, Inc.",Transportation
+Snyk,"Franklin Resources, Inc.",Security
+Talkdesk,"Franklin Resources, Inc.",Telecomm
+Flexport,Legend Venture Partners,Transportation
+Zipline,Legend Venture Partners,Aerospace
+Animoca Brands,Temasek Holdings (Private) Limited,Entertainment
+ConsenSys,Temasek Holdings (Private) Limited,Blockchain
+FTX,Temasek Holdings (Private) Limited,Blockchain
+Impossible Foods,Temasek Holdings (Private) Limited,Food
+Ola,Temasek Holdings (Private) Limited,Transportation
+Snyk,Temasek Holdings (Private) Limited,Security
+SparkCognition,Temasek Holdings (Private) Limited,Data
+Zipline,Temasek Holdings (Private) Limited,Aerospace
+Brex,"Dragoneer Investment Group, LLC",Financial
+Bytedance,"Dragoneer Investment Group, LLC",Entertainment
+Chainalysis,"Dragoneer Investment Group, LLC",Blockchain
+Chime Bank,"Dragoneer Investment Group, LLC",Financial
+Databricks,"Dragoneer Investment Group, LLC",Data
+Discord,"Dragoneer Investment Group, LLC",Entertainment
+Klarna,"Dragoneer Investment Group, LLC",Financial
+Scale.ai,"Dragoneer Investment Group, LLC",Data
+Brex,DST Global,Financial
+Chime Bank,DST Global,Financial
+Figure,DST Global,Financial
+Flexport,DST Global,Transportation
+Klarna,DST Global,Financial
+Ola,DST Global,Transportation
+Revolut,DST Global,Financial
+Stripe,DST Global,Financial
+Brex,GIC Pvt. Ltd.,Financial
+Chainalysis,GIC Pvt. Ltd.,Blockchain
+Databricks,GIC Pvt. Ltd.,Data
+Epic Games,GIC Pvt. Ltd.,Entertainment
+Klarna,GIC Pvt. Ltd.,Financial
+Lime,GIC Pvt. Ltd.,Transportation
+Ola,GIC Pvt. Ltd.,Transportation
+ThoughtSpot,GIC Pvt. Ltd.,Data
+Airtable,Greenoaks Capital Partners,Data
+Brex,Greenoaks Capital Partners,Financial
+Databricks,Greenoaks Capital Partners,Data
+Discord,Greenoaks Capital Partners,Entertainment
+FTX,Greenoaks Capital Partners,Blockchain
+Rippling,Greenoaks Capital Partners,HR
+Scale.ai,Greenoaks Capital Partners,Data
+Stripe,Greenoaks Capital Partners,Financial
+Arctic Wolf,Lightspeed Ventures,Data
+Carta,Lightspeed Ventures,Financial
+Epic Games,Lightspeed Ventures,Entertainment
+FTX,Lightspeed Ventures,Blockchain
+Netskope,Lightspeed Ventures,Security
+Rubrik,Lightspeed Ventures,Data
+ThoughtSpot,Lightspeed Ventures,Data
+Bytedance,Next Play Capital,Entertainment
+Carta,Next Play Capital,Financial
+Chime Bank,Next Play Capital,Financial
+Flexport,Next Play Capital,Transportation
+Impossible Foods,Next Play Capital,Food
+Lime,Next Play Capital,Transportation
+Rubrik,Next Play Capital,Data
+ThoughtSpot,Next Play Capital,Data
+Brex,G Squared,Financial
+Convoy,G Squared,Transportation
+Flexport,G Squared,Transportation
+Impossible Foods,G Squared,Food
+Revolut,G Squared,Financial
+Turo,G Squared,Transportation
+Chime Bank,ICONIQ Capital,Financial
+Epic Games,ICONIQ Capital,Entertainment
+Figma,ICONIQ Capital,Workflow
+Intercom,ICONIQ Capital,Marketing
+Netskope,ICONIQ Capital,Security
+Relativity Space,ICONIQ Capital,Aerospace
+Airtable,ICONIQ Growth,Data
+Chime Bank,ICONIQ Growth,Financial
+Epic Games,ICONIQ Growth,Entertainment
+FTX,ICONIQ Growth,Blockchain
+Intercom,ICONIQ Growth,Marketing
+Netskope,ICONIQ Growth,Security
+Brex,Kleiner Perkins,Financial
+Epic Games,Kleiner Perkins,Entertainment
+Figma,Kleiner Perkins,Workflow
+Intercom,Kleiner Perkins,Marketing
+Rippling,Kleiner Perkins,HR
+Stripe,Kleiner Perkins,Financial
+Turo,Kleiner Perkins,Transportation
+Discord,Next Round Capital Partners,Entertainment
+Epic Games,Next Round Capital Partners,Entertainment
+Netskope,Next Round Capital Partners,Security
+Rubrik,Next Round Capital Partners,Data
+Scopely,Next Round Capital Partners,Entertainment
+SpaceX,Next Round Capital Partners,Aerospace
+Airtable,Salesforce Ventures,Data
+BigID,Salesforce Ventures,Data
+Databricks,Salesforce Ventures,Data
+DataRobot,Salesforce Ventures,Data
+Snyk,Salesforce Ventures,Security
+Stripe,Salesforce Ventures,Financial
+Talkdesk,Salesforce Ventures,Telecomm
+Animoca Brands,Adit Ventures,Entertainment
+Flexport,Adit Ventures,Transportation
+Klarna,Adit Ventures,Financial
+Netskope,Adit Ventures,Security
+SpaceX,Adit Ventures,Aerospace
+Turo,Adit Ventures,Transportation
+Rubrik,Adit Ventures,Data
+Brex,Bond Capital Management LP,Financial
+Relativity Space,Bond Capital Management LP,Aerospace
+Revolut,Bond Capital Management LP,Financial
+FTX,Bond Capital Management LP,Blockchain
+BigID,Bessemer Venture Partners,Data
+Discord,Bessemer Venture Partners,Entertainment
+Intercom,Bessemer Venture Partners,Marketing
+Ola,Bessemer Venture Partners,Transportation
+Sisense,Bessemer Venture Partners,Data
+Zopa,Bessemer Venture Partners,Financial
+DataRobot,"DFJ Growth Management, LLC",Data
+Neuralink,"DFJ Growth Management, LLC",Health
+Sisense,"DFJ Growth Management, LLC",Data
+SpaceX,"DFJ Growth Management, LLC",Aerospace
+Stripe,"DFJ Growth Management, LLC",Financial
+Talkdesk,"DFJ Growth Management, LLC",Telecomm
+Brex,"Durable Capital Partners, LP",Financial
+Chainalysis,"Durable Capital Partners, LP",Blockchain
+Convoy,"Durable Capital Partners, LP",Transportation
+Figma,"Durable Capital Partners, LP",Workflow
+Scale.ai,"Durable Capital Partners, LP",Data
+Airtable,Evolution VC Partners,Data
+Brex,Evolution VC Partners,Financial
+Carta,Evolution VC Partners,Financial
+Lime,Evolution VC Partners,Transportation
+Rubrik,Evolution VC Partners,Data
+BigID,FinSight Ventures,Data
+Carta,FinSight Ventures,Financial
+Convoy,FinSight Ventures,Transportation
+Intercom,FinSight Ventures,Marketing
+Klarna,FinSight Ventures,Financial
+Netskope,FinSight Ventures,Security
+ThoughtSpot,FinSight Ventures,Data
+Anduril,General Catalyst Partners,Aerospace
+Circle,General Catalyst Partners,Financial
+Relativity Space,General Catalyst Partners,Aerospace
+Stripe,General Catalyst Partners,Financial
+ThoughtSpot,General Catalyst Partners,Data
+Discord,Index Ventures SA,Entertainment
+Figma,Index Ventures SA,Workflow
+Intercom,Index Ventures SA,Marketing
+Revolut,Index Ventures SA,Financial
+Scale.ai,Index Ventures SA,Data
+Airtable,"Silver Lake Management, L.L.C.",Data
+Carta,"Silver Lake Management, L.L.C.",Financial
+Klarna,"Silver Lake Management, L.L.C.",Financial
+Stripe,"Silver Lake Management, L.L.C.",Financial
+Addepar,Valor Management Corp.,Financial
+Anduril,Valor Management Corp.,Aerospace
+Neuralink,Valor Management Corp.,Health
+SpaceX,Valor Management Corp.,Aerospace
+Chainalysis,Altimeter Capital Management,Blockchain
+DataRobot,Altimeter Capital Management,Data
+Epic Games,Altimeter Capital Management,Entertainment
+FTX,Altimeter Capital Management,Blockchain
+Brex,"Base10 Partners Capital Management, LLC",Financial
+Figma,"Base10 Partners Capital Management, LLC",Workflow
+FTX,"Base10 Partners Capital Management, LLC",Blockchain
+Carta,"Base10 Partners Capital Management, LLC",Financial
+Carta,Battery Ventures,Financial
+Databricks,Battery Ventures,Data
+Niantic,Battery Ventures,Entertainment
+Scopely,Battery Ventures,Entertainment
+Sisense,Battery Ventures,Data
+Airtable,"BoxGroup Services, LLC",Data
+Flexport,"BoxGroup Services, LLC",Transportation
+Scopely,"BoxGroup Services, LLC",Entertainment
+Stripe,"BoxGroup Services, LLC",Financial
+Zipline,"BoxGroup Services, LLC",Aerospace
+Addepar,D1 Capital Partners,Financial
+Airtable,D1 Capital Partners,Data
+Anduril,D1 Capital Partners,Aerospace
+Scopely,D1 Capital Partners,Entertainment
+Chainalysis,Digital Currency Group,Blockchain
+Circle,Digital Currency Group,Financial
+Figure,Digital Currency Group,Financial
+Ledger,Digital Currency Group,Blockchain
+Anduril,FJ Labs,HR
+Animoca Brands,FJ Labs,HR
+Flexport,FJ Labs,Transportation
+Klarna,FJ Labs,Financial
+Lime,FJ Labs,Transportation
+Revolut,FJ Labs,Financial
+SpaceX,FJ Labs,Financial
+Stripe,FJ Labs,Financial
+Airtable,Founders Circle Capital,Data
+Databricks,Founders Circle Capital,Data
+Sisense,Founders Circle Capital,Data
+Turo,Founders Circle Capital,Transportation
+Airtable,Friends & Family Capital Management,Data
+Anduril,Friends & Family Capital Management,Aerospace
+Figure,Friends & Family Capital Management,Financial
+Flexport,Friends & Family Capital Management,Transportation
+SpaceX,Friends & Family Capital Management,Aerospace
+Databricks,Geodesic Capital,Data
+DataRobot,Geodesic Capital,Data
+Figma,Geodesic Capital,Workflow
+Netskope,Geodesic Capital,Security
+Snyk,Geodesic Capital,Security
+ThoughtSpot,Geodesic Capital,Data
+DataRobot,Hone Capital,Data
+Flexport,Hone Capital,Transportation
+Impossible Foods,Khosla Ventures,Food
+Rubrik,Khosla Ventures,Data
+Stripe,Khosla Ventures,Financial
+ThoughtSpot,Khosla Ventures,Data
+Brex,Mastry,Financial
+Carta,Mastry,Financial
+Impossible Foods,Mastry,Food
+Klarna,Mastry,Financial
+Lime,Mastry,Transportation
+Addepar,MicroVenture Marketplace,Financial
+Circle,MicroVenture Marketplace,Financial
+Flexport,MicroVenture Marketplace,Transportation
+Rubrik,MicroVenture Marketplace,Data
+Turo,MicroVenture Marketplace,Transportation
+ConsenSys,Mindrock,Blockchain
+Diamond Foundry,Mindrock,Manufacturing
+Discord,Mindrock,Entertainment
+Figure,Mindrock,Financial
+Klarna,Mindrock,Financial
+SpaceX,Mindrock,Aerospace
+Bytedance,New Enterprise Associates,Entertainment
+Databricks,New Enterprise Associates,Data
+DataRobot,New Enterprise Associates,Data
+FTX,New Enterprise Associates,Blockchain
+Brex,Ribbit Management Company,Financial
+Chainalysis,Ribbit Management Company,Blockchain
+Figure,Ribbit Management Company,Financial
+FTX,Ribbit Management Company,Blockchain
+Revolut,Ribbit Management Company,Financial
+DataRobot,Sapphire Ventures,Data
+Netskope,Sapphire Ventures,Security
+ThoughtSpot,Sapphire Ventures,Data
+Arctic Wolf,Scale-Up Venture Capital,Data
+DataRobot,Scale-Up Venture Capital,Data
+Scopely,Scale-Up Venture Capital,Entertainment
+Sisense,Scale-Up Venture Capital,Data
+Zipline,Scale-Up Venture Capital,Aerospace
+Carta,Spark Capital Partners,Financial
+Discord,Spark Capital Partners,Entertainment
+Niantic,Spark Capital Partners,Entertainment
+Scale.ai,Spark Capital Partners,Data
+Brex,TCMI,Financial
+Bytedance,TCMI,Entertainment
+Klarna,TCMI,Financial
+Revolut,TCMI,Financial
+Rippling,Threshold Ventures Management Company,HR
+Talkdesk,Threshold Ventures Management Company,Telecomm
+Flexport,Toy Ventures,Transportation
+Brex,Y Combinator Continuity Fund I,Financial
+Convoy,Y Combinator Continuity Fund I,Transportation
+Stripe,Y Combinator Continuity Fund I,Financial
+Animoca Brands,10T Holdings,Entertainment
+Figure,10T Holdings,Financial
+Ledger,10T Holdings,Blockchain
+Anduril,137 Ventures,Aerospace
+Brex,137 Ventures,Financial
+Carta,137 Ventures,Financial
+Flexport,137 Ventures,Transportation
+Intercom,137 Ventures,Marketing
+SpaceX,137 Ventures,Aerospace
+Turo,137 Ventures,Transportation
+Intercom,500 Global,Marketing
+Stripe,500 Global,Financial
+Talkdesk,500 Global,Telecomm
+Carta,Adventure Fund,Financial
+Chime Bank,Adventure Fund,Financial
+SpaceX,Adventure Fund,Aerospace
+Stripe,Adventure Fund,Financial
+Animoca Brands,Alpha Wave Global,Entertainment
+Klarna,Alpha Wave Global,Transportation
+Ola,Alpha Wave Global,Transportation
+Revolut,Alpha Wave Global,Financial
+SpaceX,Alpha Wave Global,Aerospace
+Klarna,Atomico Investment Holdings ,Financial
+Lime,Atomico Investment Holdings ,Transportation
+Stripe,Atomico Investment Holdings ,Financial
+Chime Bank,Ben Jen Holdings,Financial
+Discord,Ben Jen Holdings,Entertainment
+Impossible Foods,Ben Jen Holdings,Food
+Niantic,Ben Jen Holdings,Entertainment
+Animoca Brands,Blockchain Coinvestors Fund Manager,Entertainment
+Circle,Blockchain Coinvestors Fund Manager,Financial
+OpenSea,Blockchain Coinvestors Fund Manager,Entertainment
+Databricks,Canada Pension Plan Investment Board,Data
+Klarna,Canada Pension Plan Investment Board,Financial
+Netskope,Canada Pension Plan Investment Board,Security
+Scopely,Canada Pension Plan Investment Board,Entertainment
+Convoy,"CapitalG Management Company, LLC",Transportation
+Databricks,"CapitalG Management Company, LLC",Data
+Niantic,"CapitalG Management Company, LLC",Entertainment
+Stripe,"CapitalG Management Company, LLC",Financial
+Animoca Brands,Coinbase Ventures,Entertainment
+ConsenSys,Coinbase Ventures,Blockchain
+FTX,Coinbase Ventures,Blockchain
+OpenSea,Coinbase Ventures,Entertainment
+Airtable,Data Collective,Data
+Databricks,Data Collective,Data
+Carta,"Draper Associates, L.P.",Financial
+Ledger,"Draper Associates, L.P.",Blockchain
+SpaceX,"Draper Associates, L.P.",Aerospace
+Zopa,"Draper Associates, L.P.",Financial
+Klarna,Elevation Capital,Financial
+Rubrik,Elevation Capital,Data
+SpaceX,Elevation Capital,Aerospace
+Stripe,Elevation Capital,Financial
+Chime Bank,Empede Capital Partners I Ltd,Financial
+Netskope,Empede Capital Partners I Ltd,Security
+ThoughtSpot,Empede Capital Partners I Ltd,Data
+Zipline,Empede Capital Partners I Ltd,Aerospace
+Convoy,Fidelity Investments,Transportation
+Lime,Fidelity Investments,Transportation
+SpaceX,Fidelity Investments,Aerospace
+ThoughtSpot,Fidelity Investments,Data
+Arctic Wolf,Founders Equity Partners,Data
+Sisense,Founders Equity Partners,Data
+SpaceX,Founders Equity Partners,Aerospace
+SparkCognition,Founders Equity Partners,Data
+Convoy,Greylock Partners,Transportation
+Discord,Greylock Partners,Entertainment
+Figma,Greylock Partners,Workflow
+Rubrik,Greylock Partners,Data
+Epic Games,"HOF Capital Management, LLC",Entertainment
+Niantic,"HOF Capital Management, LLC",Entertainment
+Stripe,"HOF Capital Management, LLC",Financial
+Brex,"i-Qu & Co. Management, LP",Financial
+Convoy,"i-Qu & Co. Management, LP",Transportation
+Databricks,"i-Qu & Co. Management, LP",Data
+Stripe,"i-Qu & Co. Management, LP",Financial
+Anduril,"Iron Edge, Inc.",Aerospace
+Impossible Foods,"Iron Edge, Inc.",Food
+Zipline,"Iron Edge, Inc.",Aerospace
+BigID,Karmel Capital Management LLC,Data
+Rubrik,Karmel Capital Management LLC,Data
+Carta,Kima Ventures SAS,Financial
+Ledger,Kima Ventures SAS,Blockchain
+Carta,Meritech Capital Partners,Financial
+DataRobot,Meritech Capital Partners,Data
+Lime,Meritech Capital Partners,Transportation
+Niantic,Meritech Capital Partners,Entertainment
+ConsenSys,NJF Capital,Blockchain
+Revolut,NJF Capital,Financial
+Rippling,NJF Capital,HR
+SpaceX,NJF Capital,Aerospace
+Chainalysis,Paradigm Operations LP,Blockchain
+FTX,Paradigm Operations LP,Blockchain
+FTX,Paradigm Operations LP,Blockchain
+OpenSea,Paradigm Operations LP,Entertainment
+Epic Games,"Reform Ventures, LLC",Entertainment
+Flexport,"Reform Ventures, LLC",Transportation
+SpaceX,"Reform Ventures, LLC",Aerospace
+Turo,"Reform Ventures, LLC",Transportation
+Arctic Wolf,"Scale-Up Unicorn Fund I, L.P.",Data
+Scopely,"Scale-Up Unicorn Fund I, L.P.",Entertainment
+Sisense,"Scale-Up Unicorn Fund I, L.P.",Data
+Zipline,"Scale-Up Unicorn Fund I, L.P.",Aerospace
+Brex,Seek Ventures (UK) Limited,Financial
+Flexport,Seek Ventures (UK) Limited,Transportation
+Revolut,Seek Ventures (UK) Limited,Financial
+Stripe,Seek Ventures (UK) Limited,Financial
+Chime Bank,Sequoia Capital Global Equities,Financial
+Netskope,Sequoia Capital Global Equities,Security
+Rippling,Sequoia Capital Global Equities,HR
+Carta,"Social Capital PEP Management, LLC",Financial
+Intercom,"Social Capital PEP Management, LLC",Marketing
+Netskope,"Social Capital PEP Management, LLC",Security
+Relativity Space,"Social Capital PEP Management, LLC",Aerospace
+Flexport,SV Angel Management,Transportation
+Stripe,SV Angel Management,Financial
+Zipline,SV Angel Management,Aerospace
+ConsenSys,Third Point Ventures L.P.,Blockchain
+Epic Games,Third Point Ventures L.P.,Entertainment
+FTX,Third Point Ventures L.P.,Blockchain
+Airtable,"Thrive Capital Management, LLC",Data
+Carta,"Thrive Capital Management, LLC",Financial
+Scale.ai,"Thrive Capital Management, LLC",Data
+Stripe,"Thrive Capital Management, LLC",Financial
+Carta,"West Coast Equity Partners, LLC",Financial
+DataRobot,"West Coast Equity Partners, LLC",Data
+Rubrik,"West Coast Equity Partners, LLC",Data
+SpaceX,"West Coast Equity Partners, LLC",Aerospace
+Carta,"75 & Sunny, LLC",Financial
+Relativity Space,"75 & Sunny, LLC",Aerospace
+SpaceX,"75 & Sunny, LLC",Aerospace
+Addepar,8VC,Financial
+Anduril,8VC,Aerospace
+Flexport,8VC,Transportation
+Convoy,Allen & Company Incorporated,Transportation
+Relativity Space,Allen & Company Incorporated,Aerospace
+Stripe,Allen & Company Incorporated,Financial
+Flexport,Allied Venture Partners,Transportation
+Impossible Foods,Allied Venture Partners,Food
+Turo,Allied Venture Partners,Transportation
+DataRobot,Alpha Square Group Inc.,Data
+Netskope,Alpha Square Group Inc.,Security
+Talkdesk,Alpha Square Group Inc.,Telecomm
+Carta,"Amity Ventures, LLC",Financial
+Snyk,"Amity Ventures, LLC",Security
+Talkdesk,"Amity Ventures, LLC",Telecomm
+Carta,Andra Capital LLC,Financial
+Convoy,Andra Capital LLC,Transportation
+Lime,"Bain Capital Venture Partners, LLC",Transportation
+Rubrik,"Bain Capital Venture Partners, LLC",Data
+Anduril,Bedrock Capital,Aerospace
+Rippling,Bedrock Capital,HR
+Scale.ai,Bedrock Capital,Data
+Airtable,Benchmark,Data
+Chainalysis,Benchmark,Blockchain
+Discord,Benchmark,Entertainment
+Circle,Blockchain Capital,Financial
+OpenSea,Blockchain Capital,Entertainment
+Circle,Breyer Capital,Financial
+Epic Games,Breyer Capital,Entertainment
+Niantic,Breyer Capital,Entertainment
+Airtable,Caffeinated Capital Management,Data
+Brex,Caffeinated Capital Management,Financial
+Anduril,Champion Hill Ventures,Aerospace
+Clara,Champion Hill Ventures,Financial
+Flexport,Champion Hill Ventures,Transportation
+SpaceX,Champion Hill Ventures,Aerospace
+Airtable,Charles River Ventures,Data
+Gupshup,Charles River Ventures,Telecomm
+Niantic,Charles River Ventures,Entertainment
+DataRobot,Citi Ventures,Data
+Netskope,Citi Ventures,Security
+Snyk,Citi Ventures,Security
+Addepar,Craft Ventures,Financial
+Neuralink,Craft Ventures,Health
+SpaceX,Craft Ventures,Aerospace
+Airtable,CSC Upshot Ventures Management,Data
+DataRobot,CSC Upshot Ventures Management,Data
+Flexport,CSC Upshot Ventures Management,Transportation
+Rippling,CSC Upshot Ventures Management,HR
+Zipline,CSC Upshot Ventures Management,Transportation
+DataRobot,Dcode Capital,Data
+Arctic Wolf,Deutsche Telekom Capital Partners Management GmbH,Data
+DataRobot,Deutsche Telekom Capital Partners Management GmbH,Data
+Neo4j,Deutsche Telekom Capital Partners Management GmbH,Data
+Brex,EXOR Seeds,Financial
+Neuralink,EXOR Seeds,Health
+ConsenSys,Fabric Ventures Group,Blockchain
+Ledger,Fabric Ventures Group,Blockchain
+Flexport,Felicis Ventures Management Company,Transportation
+Scopely,Felicis Ventures Management Company,Entertainment
+Zipline,Felicis Ventures Management Company,Aerospace
+Flexport,FG2 Capital,Transportation
+Lime,FG2 Capital,Transportation
+Revolut,FG2 Capital,Financial
+Convoy,Fuel Capital,Transportation
+Figma,Fuel Capital,Workflow
+Flexport,Fuel Capital,Transportation
+Chainalysis,FundersClub Inc.,Blockchain
+Flexport,FundersClub Inc.,Transportation
+Rippling,FundersClub Inc.,HR
+Bytedance,"General Atlantic Service Company, L.P.",Entertainment
+Chime Bank,"General Atlantic Service Company, L.P.",Financial
+Klarna,"General Atlantic Service Company, L.P.",Financial
+Animoca Brands,GGV Capital,Entertainment
+Bytedance,GGV Capital,Entertainment
+Lime,GGV Capital,Transportation
+Rubrik,Global Opportunities Fund,Data
+Databricks,Green Bay Ventures Manager,Data
+Lime,Green Bay Ventures Manager,Transportation
+BigID,Hewlett Packard Pathfinder,Data
+DataRobot,Hewlett Packard Pathfinder,Data
+ThoughtSpot,Hewlett Packard Pathfinder,Data
+Impossible Foods,Horizons Ventures Limited,Food
+Relativity Space,Horizons Ventures Limited,Aerospace
+Scopely,Horizons Ventures Limited,Entertainment
+Anduril,Human Capital Investment Management,Aerospace
+Brex,Human Capital Investment Management,Financial
+Scale.ai,Human Capital Investment Management,Data
+Circle,IDG Capital Partners,Financial
+Discord,IDG Capital Partners,Entertainment
+Lime,IDG Capital Partners,Transportation
+Databricks,Insight Venture Management,Data
+FTX,Insight Venture Management,Blockchain
+Sisense,Insight Venture Management,Data
+Impossible Foods,InvestX Financial,Food
+SpaceX,InvestX Financial,Aerospace
+Anduril,Jovono,Aerospace
+Convoy,Jovono,Transportation
+Flexport,Jovono,Transportation
+Carta,La Maison Partners,Financial
+SpaceX,La Maison Partners,Aerospace
+Snyk,La Maison Partners,Security
+Talkdesk,La Maison Partners,Telecomm
+Figure,Lakestar Advisors GmbH,Financial
+Klarna,Lakestar Advisors GmbH,Financial
+Revolut,Lakestar Advisors GmbH,Financial
+Impossible Foods,London Impact Ventures,Food
+Revolut,London Impact Ventures,Financial
+SpaceX,London Impact Ventures,Aerospace
+ConsenSys,Microsoft Corporation,Blockchain
+Databricks,Microsoft Corporation,Data
+Rubrik,Microsoft Corporation,Data
+Databricks,Morgan Stanley Investment Management Inc.,Data
+DataRobot,Morgan Stanley Investment Management Inc.,Data
+Figma,Morgan Stanley Investment Management Inc.,Workflow
+Flexport,MVP Star Tech NG Fund IC Limited,Transportation
+Lime,MVP Star Tech NG Fund IC Limited,Transportation
+Revolut,MVP Star Tech NG Fund IC Limited,Financial
+Convoy,Neo,Transportation
+Epic Games,Newman Capital Group Ltd.,Entertainment
+Klarna,Newman Capital Group Ltd.,financial
+SpaceX,Newman Capital Group Ltd.,Aerospace
+Brex,"Next Play Ventures, LLC",Financial
+Figma,"Next Play Ventures, LLC",Workflow
+Scale.ai,"Next Play Ventures, LLC",Data
+Epic Games,Ontario Teachers' Pension Plan Board,Entertainment
+FTX,Ontario Teachers' Pension Plan Board,Blockchain
+SpaceX,Ontario Teachers' Pension Plan Board,Aerospace
+Carta,PROOF.VC,Financial
+Epic Games,PROOF.VC,Entertainment
+Zipline,PROOF.VC,Aerospace
+Carta,Republic Capital Adviser LLC,Financial
+Relativity Space,Republic Capital Adviser LLC,Aerospace
+DataRobot,"Sands Capital Ventures, LLC",Data
+Scopely,"Sands Capital Ventures, LLC",Entertainment
+Snyk,"Sands Capital Ventures, LLC",Security
+Animoca Brands,Senator Investment Group LP,Entertainment
+FTX,Senator Investment Group LP,Blockchain
+Relativity Space,Senator Investment Group LP,Aerospace
+Flexport,Sherpalo Ventures,Transportation
+Stripe,Sherpalo Ventures,Financial
+Addepar,Snow Fox Partners LLC,Financial
+Flexport,Snow Fox Partners LLC,Transportation
+SparkCognition,Snow Fox Partners LLC,Data
+Bytedance,SoftBank Group Corp.,Entertainment
+FTX,SoftBank Group Corp.,Blockchain
+Ola,SoftBank Group Corp.,Transportation
+Chainalysis,"Sozo Ventures, LLC",Blockchain
+Flexport,"Sozo Ventures, LLC",Transportation
+Carta,Step Ahead Capital LLC,Financial
+Chainalysis,Step Ahead Capital LLC,Blockchain
+ThoughtSpot,Step Ahead Capital LLC,Data
+Convoy,"T. Rowe Price Associates, Inc.",Transportation
+DataRobot,"T. Rowe Price Associates, Inc.",Data
+Airtable,"T. Rowe Price Group, Inc.",Data
+Databricks,"T. Rowe Price Group, Inc.",Data
+Epic Games,"T. Rowe Price Group, Inc.",Entertainment
+Chainalysis,"Techstars Central, LLC",Blockchain
+DataRobot,"Techstars Central, LLC",Data
+Zipline,"Techstars Central, LLC",Aerospace
+Discord,Tencent Holdings Limited,Entertainment
+Epic Games,Tencent Holdings Limited,Entertainment
+Ola,Tencent Holdings Limited,Transportation
+Airtable,Toba Capital,Data
+Brex,Toba Capital,Financial
+Chime Bank,Toba Capital,Financial
+Carta,"Tribe Capital Management, LLC",Financial
+FTX,"Tribe Capital Management, LLC",Blockchain
+Relativity Space,"Tribe Capital Management, LLC",Aerospace
+Convoy,Triplepoint Advisers LLC,Transportation
+Revolut,Triplepoint Advisers LLC,Financial
+Sisense,Triplepoint Advisers LLC,Data
+Airtable,"TrueBridge Captial Partners, Inc.",Data
+SpaceX,"TrueBridge Captial Partners, Inc.",Aerospace
+Stripe,"TrueBridge Captial Partners, Inc.",Financial
+Chime Bank,Veligera Capital LLC,Financial
+Scopely,Veligera Capital LLC,Entertainment
+SpaceX,Veligera Capital LLC,Aerospace
+Arctic Wolf,Viking Global Investors LP,Data
+Impossible Foods,Viking Global Investors LP,Food
+Talkdesk,Viking Global Investors LP,Telecomm
+Scale.ai,Wellington Management Group LLP,Data
+Scopely,Wellington Management Group LLP,Entertainment
+Carta,West Street Capital Partners,Financial
+Circle,West Street Capital Partners,Financial
+Zipline,West Street Capital Partners,Aerospace
+Chime Bank,Whale Rock Capital Management LLC,Financial
+Databricks,Whale Rock Capital Management LLC,Data
+Talkdesk,Whale Rock Capital Management LLC,Telecomm
+DataRobot,Wil LLC,Data
+Intercom,Wil LLC,Marketing
+Rippling,Wil LLC,HR
+Airtable,XN Capital,Data
+Impossible Foods,XN Capital,Food
+Relativity Space,XN Capital,Aerospace
+Zopa,Alpaca VC,Financial
+Zopa,Balderton Capital (UK) LLP,Financial
+Zopa,Chimera Capital Limited,Financial
+Neo4j,Creandum AB,Data
+Gupshup,"Helion Venture Partners, LLC",Telecomm
+SparkCognition,JC2 Ventures,Data
+SparkCognition,"March Capital Venture Management Services, LLC",Data
+SparkCognition,"MSD Capital, L.P.",Data
+Zopa,Northzone Ventures,Financial
+Zopa,"QED Investors, LLC",Financial
+Gupshup,Think Investments LP,Telecomm
+Miso Robotics,Acacia Research Corporation,Food
+Miso Robotics,"CaliBurger, LLC",Food
+Gupshup,"Cambrian Ventures, Inc.",Telecomm
+Diamond Foundry,Caspian VC Partners,Manufacturing
+Neo4j,Conor Venture Partners Oy,Data
+Neo4j,Dawn Capital LLP,Data
+Neo4j,Eight Roads Ventures,Data
+Neo4j,Eurazeo SE,Data
+Diamond Foundry,Fidelity Investments,Manufacturing
+Neo4j,Greenbridge Partners,Data
+Diamond Foundry,GVA Capital,Manufacturing
+Neo4j,Heartcore Capital A/S,Data
+Neo4j,Impresa Management LLC,Data
+Neo4j,Innovationsbron Rendera Såddkapital AB,Data
+Miso Robotics,"Levy Restaurants, Inc",Food
+Neo4j,Lightrock LLP,Data
+Miso Robotics,MAG Ventures,Food
+Neo4j,Morgan Stanley Private Equity,Data
+Diamond Foundry,Nautilus Ventures LLC,Manufacturing
+Diamond Foundry,"Obvious Ventures, L.P.",Manufacturing
+Neo4j,One Peak Partners,Data
+Diamond Foundry,Prefix Capital,Manufacturing
+Miso Robotics,"SeedInvest, LLC",Food
+Neo4j,Sorenson Capital,Data
+Neo4j,Sunstone Capital A/S,Data
+Diamond Foundry,Vast Ventures Management LLC,Manufacturing
+,,

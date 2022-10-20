@@ -1,39 +1,51 @@
-Index,SubIndex,Firm,Return
-ApeVue 50,ApeVue 50 Financial,Addepar,1.178957089
-ApeVue 50,ApeVue 50 Financial,Bolt,1.081030954
-ApeVue 50,ApeVue 50 Financial,Brex,1.390970177
-ApeVue 50,ApeVue 50 Financial,Carta,1.030095982
-ApeVue 50,ApeVue 50 Financial,Chime,1.102727496
-ApeVue 50,ApeVue 50 Financial,Deel,1.247024898
-ApeVue 50,ApeVue 50 Financial,Figure,1.13514075
-ApeVue 50,ApeVue 50 Financial,Klarna,1.175773285
-ApeVue 50,ApeVue 50 Financial,Kraken,1.470485142
-ApeVue 50,ApeVue 50 Financial,N26,1.219875998
-ApeVue 50,ApeVue 50 Financial,Pipe,1.132315658
-ApeVue 50,ApeVue 50 Financial,Revolut,1.23363581
-ApeVue 50,ApeVue 50 Financial,Stripe,1.051356378
-ApeVue 50,ApeVue 50 Financial,Toss,1.389689169
-ApeVue 50,ApeVue 50 Financial,Upgrade,1.278993512
-ApeVue 50,ApeVue 50 Food,Bowery Farming,1.312199115
-ApeVue 50,ApeVue 50 Food,Eat Just,1.395462803
-ApeVue 50,ApeVue 50 Food,Gopuff,1.23975351
-ApeVue 50,ApeVue 50 Food,Gorillas,1.223506009
-ApeVue 50,ApeVue 50 Food,Grubmarket,1.045552268
-ApeVue 50,ApeVue 50 Food,Impossible Foods,1.311949575
-ApeVue 50,ApeVue 50 Food,Instacart,1.291498371
-ApeVue 50,ApeVue 50 Data,Airtable,1.196072688
-ApeVue 50,ApeVue 50 Data,Artic Wolf,1.355379878
-ApeVue 50,ApeVue 50 Data,Automation Anywhere,1.269817457
-ApeVue 50,ApeVue 50 Data,ConsenSys,1.147070965
-ApeVue 50,ApeVue 50 Data,Databricks,1.441375894
-ApeVue 50,ApeVue 50 Data,Dataminr,1.127175256
-ApeVue 50,ApeVue 50 Data,H2O.ai,1.402524117
-ApeVue 50,ApeVue 50 Data,Rubrik,1.045784089
-ApeVue 50,ApeVue 50 Data,Scale.ai,1.228334532
-ApeVue 50,ApeVue 50 Data,Sisense,1.081678945
-ApeVue 50,ApeVue 50 Entertainment,ByteDance,1.3757907
-ApeVue 50,ApeVue 50 Entertainment,Discord,1.147900379
-ApeVue 50,ApeVue 50 Entertainment,Epic Games,1.48803632
-ApeVue 50,ApeVue 50 Entertainment,OpenSea,1.275797806
-ApeVue 50,ApeVue 50 Entertainment,Patreon,1.451330537
-ApeVue 50,ApeVue 50 Entertainment,Tonal,1.339916271
+﻿Company,Return,OpenInterest,Depth
+Addepar,-0.02,8000000.00,5
+Airtable,-0.03,174199880.00,13
+Anduril,-0.05,132000000.00,14
+Animoca Brands,-0.01,7200000.00,8
+Arctic Wolf,-0.06,68135000.00,37
+BigID,-0.11,2620000.00,3
+Brex,-0.16,76999986.00,7
+Bytedance,-0.07,477999870.00,15
+Carta,-0.07,198405985.00,12
+Chainalysis,0.45,59331500.00,7
+Chime Bank,-0.27,32075000.00,6
+Circle,1.05,61000000.00,3
+ConsenSys,0.01,24500000.00,28
+Convoy,-0.09,5000000.00,7
+Databricks,-0.01,65500000.00,13
+DataRobot,0.04,26500000.00,8
+Diamond Foundry,-0.12,6000000.00,4
+Discord,-0.09,51250000.00,11
+Epic Games,-0.06,347000000.00,33
+Figma,-0.05,55000000.00,6
+Figure,0.00,15000000.00,4
+Flexport,0.11,103761889.00,25
+FTX,-0.02,153000000.00,13
+Gupshup,-0.01,30000000.00,11
+Impossible Foods,0.00,8679200.00,7
+Intercom,0.00,0.00,3
+Klarna,0.03,340179840.00,59
+Ledger,0.00,3998627.00,3
+Lime,-0.09,30000000.00,3
+Miso Robotics,0.00,0.00,2
+Neo4j,0.11,17201000.00,6
+Netskope,-0.01,0.00,3
+Neuralink,0.05,40500000.00,9
+Niantic,0.58,60000000.00,2
+Ola,-0.02,10000000.00,3
+OpenSea,-0.08,21000000.00,9
+Relativity Space,-0.06,20000000.00,6
+Revolut,-0.06,183500000.00,21
+Rippling,-0.25,67000000.00,4
+Rubrik,0.25,32320000.00,6
+Scale.ai,-0.10,14000000.00,13
+Scopely,0.01,95000000.00,5
+Sisense,0.05,6000000.00,4
+SpaceX,0.04,510027731.00,37
+SparkCognition,0.00,0.00,2
+Stripe,0.05,386999953.00,40
+Talkdesk,0.04,23710000.00,5
+ThoughtSpot,0.04,27100000.00,11
+Zipline,-0.22,5000000.00,4
+Zopa,0.02,2000000.00,3
